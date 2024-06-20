@@ -1,10 +1,10 @@
 basePath: /
-host: ws-indra2024-878f7e6fab92.herokuapp.com
+host: ws-ghaida2024-10da574be531.herokuapp.com
 info:
   contact:
-    email: indra@ulbi.ac.id
+    email: 714220031@std.ulbi.ac.id
     name: API Support
-    url: https://github.com/indrariksa
+    url: https://github.com/ghaidafasya24
   description: This is a sample swagger for Fiber
   title: TES SWAGGER ULBI
   version: "1.0"

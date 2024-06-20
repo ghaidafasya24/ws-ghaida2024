@@ -9,12 +9,12 @@
         "title": "TES SWAGGER ULBI",
         "contact": {
             "name": "API Support",
-            "url": "https://github.com/indrariksa",
-            "email": "indra@ulbi.ac.id"
+            "url": "https://github.com/ghaidafasya24",
+            "email": "714220031@std.ulbi.ac.id"
         },
         "version": "1.0"
     },
-    "host": "ws-indra2024-878f7e6fab92.herokuapp.com",
+    "host": "ws-ghaida2024-10da574be531.herokuapp.com",
     "basePath": "/",
     "paths": {}
 }
